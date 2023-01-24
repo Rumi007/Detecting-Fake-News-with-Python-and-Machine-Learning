@@ -1,1 +1,2 @@
-# FakeNewsDetection
+•	In this Machine Learning project, I use skLearn TF (term frequency) and IDF (inverse document frequency) to build TfidfVectorizer on our dataset. Basically, TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features. Also uses the passive aggressive algorithm which is online algorithm that remain passive for correct classification outcome and turn aggressive in the event of a miscalculation or updating etc
+
